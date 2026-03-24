@@ -1,7 +1,4 @@
 # engenharia-software-estacionamento
-
-Aqui está seu conteúdo organizado em um **README.md** bem estruturado para GitHub 👇
-
 ---
 
 # 🚗 Sistema de Controle de Estacionamento
