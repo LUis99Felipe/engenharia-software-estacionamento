@@ -150,13 +150,3 @@ Deve armazenar:
 * Visualização centralizada das vagas
 * Atualização em tempo real
 * Possibilidade de painel com mapa de vagas
-
----
-
-Se quiser, posso te ajudar a complementar esse README com:
-
-* 📊 Diagrama ER (modelo conceitual)
-* 🧾 Scripts SQL
-* 🖥️ Estrutura de pastas do projeto
-
-Só falar 👍
